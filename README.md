@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **Del706/Del706** 
 💡 "El código no siempre compila a la primera, pero cada error te acerca un paso más a convertirte en un gran desarrollador. No te rindas, cada línea escrita es una victoria." 🚀
 
@@ -12,6 +10,6 @@
 - 🤝 **Pregunta sin miedo**: Todos empezamos sin saber. La comunidad está para ayudarte.
 - ⌛ **Ten paciencia contigo mismo**: El progreso real se nota con el tiempo.
 
-> 🎯 *"No te compares con otros. Compárate con quien eras ayer."*
+ 🎯 *"No te compares con otros. Compárate con quien eras ayer."*
 
 😄
